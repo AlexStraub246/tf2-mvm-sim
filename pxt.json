@@ -1,0 +1,48 @@
+{
+    "name": "TF2 MvM Sim",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.57",
+        "tag": "v1.12.57",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/50c17cec0d73d32911acd1633e6ce81b85ed2c3a",
+        "target": "1.12.58",
+        "pxt": "8.5.68",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#6E6E6E",
+        "#FF2121",
+        "#755000",
+        "#FF8135",
+        "#FFF609",
+        "#249CA3",
+        "#422700",
+        "#003FAD",
+        "#87F2FF",
+        "#8E2EC4",
+        "#A4839F",
+        "#383838",
+        "#E5CDC4",
+        "#91463d",
+        "#000000"
+    ]
+}
